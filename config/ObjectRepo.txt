@@ -1,0 +1,7 @@
+marketsLink=//header/div[2]/span[3]/a[1]/div[1]/div[1]/p[1]
+earnLink=//header/div[2]/span[1]/a[1]/div[1]/div[1]/p[1]
+walletsTab=//p[contains(text(),'Wallets')]
+priceSortAsc=//body/div[@id='__next']/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[1]/ul[1]/li[1]/div[2]/a[1]/div[1]/div[1]/div[1]
+priceSortDes=//body/div[@id='__next']/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[1]/ul[1]/li[1]/div[2]/a[1]/div[1]/div[1]/div[2]
+
+randomElement=//h2[contains(text(),'M2 Market Watch')]
